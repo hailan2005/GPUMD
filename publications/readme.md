@@ -1,20 +1,44 @@
 # Publications developed or used `GPUMD`
 
-## Preprints (3)
+## Preprints (1)
 
-* Zheyong Fan, Yanzhou Wang, Xiaokun Gu, Ping Qian, Yanjing Su, and Tapio Ala-Nissila,
-[A minimal Tersoff potential for diamond silicon with improved descriptions of elastic and phonon transport properties](https://arxiv.org/abs/1909.11474),
-arXiv:1909.11474 [cond-mat.mtrl-sci].
+* Zhongwei Zhang, Yangyu Guo, Marc Bescond, Jie Chen, Masahiro Nomura, Sebastian Volz,
+[A generalized decay law for particle- and wave-like thermal phonons](https://arxiv.org/abs/2003.02384)
+arXiv:2003.02384 [cond-mat.mes-hall]
+
+## 2020 (7)
+
+* Edgar Alejandro Bea, María Florencia Carusela, Alejandro Soba, Alejandro Gabriel Monastra and Agustín Matias Mancardo Viotti, [Thermal conductance of structured Silicon nanocrystals](https://doi.org/10.1088/1361-651X/aba8eb), Modelling Simul. Mater. Sci. Eng. **28**, 075004 (2020).
+
+* Alexander Joseph Gabourie, Saurabh Vinayak Suryavanshi, Amir Barati Farimani, and Eric Pop,
+[Reduced Thermal Conductivity of Supported and Encased Monolayer and Bilayer MoS<sub>2</sub>](https://doi.org/10.1088/2053-1583/aba4ed),
+2D Materials, **8**, 011001 (2020).
+
+* Xin Wu and Qiang Han
+[Thermal conductivity of monolayer hexagonal boron nitride: From defective to amorphous](https://doi.org/10.1016/j.commatsci.2020.109938),
+Computational Materials Science **184**, 109938 (2020).
+
+* Xin Wu and Qiang Han
+[Thermal conductivity of defective graphene: an efficient molecular dynamics study based on graphics processing units](https://doi.org/10.1088/1361-6528/ab73bc),
+Nanotechnology **31** 215708 (2020).
+
+* Haikuan Dong, Zheyong Fan, Ping Qian, Tapio Ala-Nissila, and Yanjing Su,
+[Thermal conductivity reduction in carbon nanotube by fullerene encapsulation: A molecular dynamics study](https://doi.org/10.1016/j.carbon.2020.01.114),
+Carbon **161**, 800 (2020).
 
 * Bo Fu, Kevin D. Parrish, Hyun-Young Kim, Guihua Tang, and Alan J. H. McGaughey,
-[Phonon Confinement and Transport in Ultrathin Films](https://arxiv.org/abs/1907.00969),
-arXiv:1907.00969 [cond-mat.mes-hall].
+[Phonon Confinement and Transport in Ultrathin Films](https://doi.org/10.1103/PhysRevB.101.045417),
+Phys. Rev. B **101**, 045417 (2020).
+
+* Zheyong Fan, Yanzhou Wang, Xiaokun Gu, Ping Qian, Yanjing Su, and Tapio Ala-Nissila,
+[A minimal Tersoff potential for diamond silicon with improved descriptions of elastic and phonon transport properties](https://doi.org/10.1088/1361-648X/ab5c5f),
+J. Phys.: Condens. Matter **32**, 135901 (2020).
+
+## 2019 (5)
 
 * Zhen Li, Shiyun Xiong, Charles Sievers, Yue Hu, Zheyong Fan, Ning Wei, Hua Bao, Shunda Chen, Davide Donadio, and Tapio Ala-Nissila,
-[Influence of Boundaries and Thermostatting on Nonequilibrium Molecular Dynamics Simulations of Heat Conduction in Solids](https://arxiv.org/abs/1905.11024),
-arXiv:1905.11024 [cond-mat.mes-hall].
-
-## 2019 (4)
+[Influence of Thermostatting on Nonequilibrium Molecular Dynamics Simulations of Heat Conduction in Solids](https://doi.org/10.1063/1.5132543),
+J. Chem. Phys. **151**, 234105 (2019).
 
 * Leyla Isaeva, Giuseppe Barbalinardo, Davide Donadio, and Stefano Baroni,
 [Modeling heat transport in crystals and glasses from a unified lattice-dynamical approach](https://doi.org/10.1038/s41467-019-11572-4),
@@ -22,7 +46,7 @@ Nature Communications **10**, 3853 (2019).
 
 * Xiaokun Gu, Zheyong Fan, Hua Bao, and CY Zhao,
 [Revisiting phonon-phonon scattering in single-layer graphene](https://doi.org/10.1103/PhysRevB.100.064306),
-Phys. Rev. B **100**, 064306 (2019)
+Phys. Rev. B **100**, 064306 (2019).
 
 * Zheyong Fan, Haikuan Dong, Ari Harju, and Tapio Ala-Nissila, 
 [Homogeneous nonequilibrium molecular dynamics method for heat transport and spectral decomposition with many-body potentials](https://doi.org/10.1103/PhysRevB.99.064308),
